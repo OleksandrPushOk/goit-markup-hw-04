@@ -123,9 +123,7 @@ ul {
 .connection .with-us:focus {
   color: var(--hover-focus-color);
 }
-/* .call {
-  padding-left: 50px;
-} */
+
 .connection .contacts {
   color: #757575;
   font-weight: 500;
@@ -355,6 +353,19 @@ ul {
   font-size: 16px;
   line-height: 1.9;
   letter-spacing: 0.03em;
+}
+
+.social-links {
+  margin: 0px 32px 30px 32px;
+  padding-left: 0px;
+}
+.social-one {
+  color: rgba(175, 177, 184, 1);
+}
+.social-ins {
+  width: 44px;
+  height: 44px;
+  fill: currentColor;
 }
 
 .component {
