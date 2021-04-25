@@ -384,7 +384,10 @@ ul {
 }
 
 .clients {
-  padding: 94px 215px;
+  padding-top: 94px;
+  padding-bottom: 94px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .volume {
   width: 1170px;
